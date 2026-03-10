@@ -1,3 +1,3 @@
 // Frontend Configuration
-// Update BACKEND_URL to point to your deployed backend
-window.BACKEND_URL = 'http://localhost:5000';
+// Backend API hosted on Render
+window.BACKEND_URL = 'https://sign-language-api-194h.onrender.com';
